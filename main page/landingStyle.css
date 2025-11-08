@@ -1,3 +1,10 @@
-.container {
+
+/* .container {
     color: aqua;
+} */
+
+.controlPanel {
+    background-color: red;
+    height: 20%;
 }
+
